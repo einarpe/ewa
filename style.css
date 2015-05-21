@@ -2,11 +2,13 @@
 body {
   width: 1000px;
   margin: 0 auto;
-  background-color: pink; 
   font-family: Verdana;
+  color: navy;
+  background-color: pink;
 }
 
 h1 {
   text-align: center;
+  color: DarkOrchid ;
 }
 
