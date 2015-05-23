@@ -4,11 +4,19 @@ body {
   margin: 0 auto;
   font-family: Verdana;
   color: navy;
-  background-color: pink;
+  background: #fff url(obrazki/tlo.png) top left repeat-x;
 }
 
 h1 {
   text-align: center;
   color: DarkOrchid ;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: gray;
 }
 
